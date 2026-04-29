@@ -1,0 +1,102 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\noura\\OneDrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\Noura-solution01\\Solution10\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FAFA7A5E-5E27-4B7D-A204-C35442DF18B1}|Project01\\Project01.csproj|c:\\users\\noura\\onedrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\noura-solution01\\solution10\\project01\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FAFA7A5E-5E27-4B7D-A204-C35442DF18B1}|Project01\\Project01.csproj|solutionrelative:project01\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAFA7A5E-5E27-4B7D-A204-C35442DF18B1}|Project01\\Project01.csproj|C:\\Users\\noura\\OneDrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\Noura-solution01\\Solution10\\project01\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAFA7A5E-5E27-4B7D-A204-C35442DF18B1}|Project01\\Project01.csproj|solutionrelative:project01\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAFA7A5E-5E27-4B7D-A204-C35442DF18B1}|Project01\\Project01.csproj|C:\\Users\\noura\\OneDrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\Noura-solution01\\Solution10\\project01\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAFA7A5E-5E27-4B7D-A204-C35442DF18B1}|Project01\\Project01.csproj|solutionrelative:project01\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAFA7A5E-5E27-4B7D-A204-C35442DF18B1}|Project01\\Project01.csproj|C:\\Users\\noura\\OneDrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\Noura-solution01\\Solution10\\project01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAFA7A5E-5E27-4B7D-A204-C35442DF18B1}|Project01\\Project01.csproj|solutionrelative:project01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAFA7A5E-5E27-4B7D-A204-C35442DF18B1}|Project01\\Project01.csproj|C:\\Users\\noura\\OneDrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\Noura-solution01\\Solution10\\project01\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAFA7A5E-5E27-4B7D-A204-C35442DF18B1}|Project01\\Project01.csproj|solutionrelative:project01\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\noura\\OneDrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\Noura-solution01\\Solution10\\Project01\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Project01\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\noura\\OneDrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\Noura-solution01\\Solution10\\Project01\\Form1.Designer.cs",
+              "RelativeToolTip": "Project01\\Form1.Designer.cs",
+              "ViewState": "AgIAAJMAAAAAAAAAAAAowBIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T07:08:41.982Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\noura\\OneDrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\Noura-solution01\\Solution10\\Project01\\Program.cs",
+              "RelativeDocumentMoniker": "Project01\\Program.cs",
+              "ToolTip": "C:\\Users\\noura\\OneDrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\Noura-solution01\\Solution10\\Project01\\Program.cs",
+              "RelativeToolTip": "Project01\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T07:24:43.542Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\noura\\OneDrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\Noura-solution01\\Solution10\\Project01\\Form1.cs",
+              "RelativeDocumentMoniker": "Project01\\Form1.cs",
+              "ToolTip": "C:\\Users\\noura\\OneDrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\Noura-solution01\\Solution10\\Project01\\Form1.cs [Design]",
+              "RelativeToolTip": "Project01\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T06:36:14.695Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\noura\\OneDrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\Noura-solution01\\Solution10\\Project01\\Form1.cs",
+              "RelativeDocumentMoniker": "Project01\\Form1.cs",
+              "ToolTip": "C:\\Users\\noura\\OneDrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\Noura-solution01\\Solution10\\Project01\\Form1.cs",
+              "RelativeToolTip": "Project01\\Form1.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAiwC4AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T07:30:16.979Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\noura\\OneDrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\Noura-solution01\\Solution10\\Project01\\Student.cs",
+              "RelativeDocumentMoniker": "Project01\\Student.cs",
+              "ToolTip": "C:\\Users\\noura\\OneDrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\Noura-solution01\\Solution10\\Project01\\Student.cs",
+              "RelativeToolTip": "Project01\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T06:42:58.837Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
